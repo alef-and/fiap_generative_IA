@@ -1,6 +1,8 @@
 # fiap_generative_IA
 
-Projeto final para a disciplina de Generative IA do MBA de Engenharia de Dados na FIAP
+Projeto final para a disciplina de Generative IA do MBA de Engenharia de Dados na FIAP.
+
+Trata-se de uma pipeline de dados que classifica os produtos de uma base de marketplace (fictícia) utilizando GenIA e valida com as classificações que os anunciantes inseriram na plataforma.
 
 ## Requisitos
 
